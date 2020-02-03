@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 1
   
-   Author: 
-   Date:   
+   Author: Elijah Collins
+   Date:   2/3/20
      
    Filename: tc_order.js  
 
@@ -17,3 +17,10 @@
    
 */
 
+var item = ["10582", "23015", "41807", "10041"];
+var itemDescription = ["1975 Green Bay Packers Football (signed), Item 105872"];
+itemDescription += ["Tom Landry 1955 Football Card (unsigned), Item 23015"];
+itemDescription += ["1916 Army-Navy Game, Framed Photo (signed) Item 41807"];
+itemDescription += ["Protective Card Sheets, Item 10041"];
+var itemPrice = ["149.93", "89.98", "334.93", "22.67"];
+var itemQty = ["1", "1", "1", "4"];

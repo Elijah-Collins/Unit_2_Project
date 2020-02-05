@@ -4,7 +4,6 @@
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 10
    Case Problem 3
-  
      
    Filename: ah_product.js  
    
